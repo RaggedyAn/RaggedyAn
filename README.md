@@ -1,4 +1,5 @@
-## Hi there 👋
+## Raggedy An here ... and there 👋
+- 🌱 I’m currently learning markdown
 
 <!--
 **RaggedyAn/RaggedyAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
