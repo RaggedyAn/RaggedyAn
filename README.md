@@ -6,6 +6,8 @@
 
 ### Photo
 ![pic of me doing an art performance a long-ish time ago ](https://andrewjohnmilne.com/wp-content/uploads/2013/05/logo2pt2_sm275.jpg)
+<br>
+... pic of me doing an art performance a long-ish time ago 
 
 ### Major
 Physics-Neuroscience Dbl Major
