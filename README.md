@@ -16,7 +16,7 @@ Physics-Neuroscience Dbl Major
 Last !!!!
 
 ### Why !?! 
-Why Not :D ?
+Why Not :D ? and I an interested in how data science lands in neuroscience.
 
 ### What got you interested in neuroscience and/or psychology ?
 IDK ive always been interested in psychology and working on myself and I have a background (diploma) in electrical engineering technology so it seemed like a good idea. What could possibly go worng?!
